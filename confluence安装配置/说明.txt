@@ -1,0 +1,17 @@
+mysql驱动
+一种是：
+mysql-connector-java-5.1.24-bin.jar
+另一种是：
+mysql-connector-java-5.1.31-bin.jar
+
+=======================================
+
+Confluence汉化语言包
+一种是：
+Confluence-Language-STD-CN.jar
+另一种是(推荐)：
+Confluence-5.7.1-language-pack-zh_CN.jar
+
+==========================================
+
+confluence.cfg.xml为问大夫相关配置，可参考
